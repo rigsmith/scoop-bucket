@@ -1,25 +1,25 @@
 {
-    "version": "1.7.0",
+    "version": "1.8.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rigsmith/rigsmith/releases/download/v1.7.0/rigsmith_1.7.0_windows_amd64.zip",
+            "url": "https://github.com/rigsmith/rigsmith/releases/download/v1.8.0/rigsmith_1.8.0_windows_amd64.zip",
             "bin": [
                 "shiprig.exe",
                 "rig.exe",
                 "clauderig.exe",
                 "changerig.exe"
             ],
-            "hash": "bbeab030c3731af2e4426386a6ea00faf16df4fac88f488c42c213b8f0fd4e32"
+            "hash": "5f2a2724192ad2b165e040f24a311d1559c6b14ae8d4acd8f7851209b41f1247"
         },
         "arm64": {
-            "url": "https://github.com/rigsmith/rigsmith/releases/download/v1.7.0/rigsmith_1.7.0_windows_arm64.zip",
+            "url": "https://github.com/rigsmith/rigsmith/releases/download/v1.8.0/rigsmith_1.8.0_windows_arm64.zip",
             "bin": [
                 "shiprig.exe",
                 "rig.exe",
                 "clauderig.exe",
                 "changerig.exe"
             ],
-            "hash": "9090996dc9cd06f2de9866a03cb58e0fde9783a54a397982a7f826549238d938"
+            "hash": "2aba849e0828c7b8a332379741b29a8934850ddfb63e2223b88ebf4106e9b8ef"
         }
     },
     "homepage": "https://rigsmith.dev",
